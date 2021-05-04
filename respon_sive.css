@@ -1,0 +1,431 @@
+/*           section-one            */
+
+@media screen and (max-width:1000px) {
+    .first-div .title-hello {
+        font-size: 16px;
+    }
+    .first-div .name {
+        font-size: 55px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .section_one {
+        background-image: url(images/imran_baitham\ \(4\).jpg);
+        background-size: 100%;
+    }
+    .first-div .title-hello {
+        font-size: 16px;
+    }
+    .first-div .name {
+        font-size: 40px;
+        line-height: 80px;
+    }
+}
+
+
+/*            section-two          */
+
+@media screen and (max-width:1000px) {
+    .dives {
+        display: block;
+    }
+    #img img {
+        width: 100%;
+        height: 100%;
+        padding: 3% 14%;
+        border-radius: 50%;
+    }
+    #img {
+        display: block;
+        width: 80%;
+        height: auto;
+        padding-bottom: 13px;
+    }
+    .div-three .lorem {
+        text-align: center;
+    }
+    .span-icon i {
+        margin-top: 15px;
+        margin-bottom: 1%;
+        padding: 13px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .dives {
+        display: block;
+    }
+    #img img {
+        width: 85%;
+        height: 100%;
+        border-radius: 50%;
+    }
+    #img {
+        display: block;
+        width: 75%;
+        height: auto;
+        padding-bottom: 0px;
+        padding: 0% 7%;
+    }
+    .div-three .lorem {
+        padding: 4px;
+        margin-top: 0px;
+        font-size: 16px;
+        line-height: 23px;
+        text-align: center;
+    }
+    .span-icon {
+        margin-left: 8%;
+    }
+    .span-icon i {
+        margin-top: 15px;
+        margin-bottom: 1%;
+    }
+}
+
+
+/*        end section two       */
+
+
+/*          section three */
+
+@media screen and (max-width:500px) {
+    .article {
+        padding-top: 8%;
+        width: 100%;
+    }
+    .section_three {
+        padding-top: 33px;
+    }
+    .flex-item {
+        width: 88%;
+        height: 200px;
+        margin-bottom: 22px;
+        margin-left: 0px;
+    }
+    .wrap {
+        padding-top: 7%;
+    }
+    .line {
+        font-size: 19px;
+        padding: 2% 7%;
+    }
+    .title {
+        font-size: 13px;
+        line-height: 10px;
+        word-spacing: 4px;
+        letter-spacing: 1.0px;
+    }
+    .title-head {
+        font-size: 26px;
+        line-height: 45px;
+        letter-spacing: 1.5px;
+    }
+}
+
+
+/*         end section three       */
+
+
+/*           section fore        */
+
+@media screen and (max-width: 900px) {
+    .title {
+        font-size: 13px;
+    }
+    .title-head {
+        font-size: 26px;
+    }
+    .heading {
+        font-size: 140%;
+    }
+    .date {
+        width: 55%;
+    }
+}
+
+@media screen and (max-width:700px) {
+    #dives-edu #education {
+        display: none;
+    }
+    .six-dives-box {
+        width: 100%;
+        padding-bottom: 10%;
+    }
+    .dives-one-box {
+        width: 98%;
+        display: block;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-left: 1.5%;
+    }
+    .img-div-box {
+        width: 95%;
+        padding-left: 0%;
+        border: 1px solid rgb(238, 238, 238);
+    }
+    .heading-edu {
+        margin: 1%;
+        padding-top: 4%;
+        font-size: 150%;
+        padding-bottom: 3%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .img-div-box-edu {
+        width: 95%;
+        height: auto;
+        margin-bottom: 10px;
+        background-color: whitesmoke;
+    }
+    .heading {
+        font-size: 140%;
+    }
+    .date {
+        width: 45%;
+    }
+    .pgrf {
+        font-size: 120%;
+    }
+    #cokin {
+        display: none;
+    }
+    .background-img {
+        background-position: right;
+    }
+}
+
+
+/*               section six        */
+
+@media screen and (max-width: 700px) {
+    .two-clients {
+        padding-top: 40px;
+    }
+    .clint-two {
+        width: 95%;
+        display: block;
+        margin: 0% auto;
+    }
+    .img-div-cli {
+        width: 95%;
+        padding-bottom: 5%;
+        margin: 0% auto;
+    }
+    .img-div-cli .img {
+        width: 95%;
+        height: auto;
+    }
+    .img img {
+        margin-left: 35%;
+    }
+    .para-client {
+        padding-left: 3.5%;
+        width: 90%;
+        font-size: 22px;
+        text-align: center;
+    }
+    .lets {
+        padding-top: 17%;
+    }
+    /*    background-img    */
+    .center {
+        padding-top: 10vh;
+    }
+    .background-img {
+        background-position: center;
+    }
+    .lets {
+        font-size: 26px;
+    }
+    .class-hr {
+        width: 48%;
+        margin-top: 7%;
+        margin-bottom: 8%;
+    }
+    .hire {
+        padding: 13px 55px;
+    }
+}
+
+
+/*            end section six        */
+
+
+/*               section seven        */
+
+@media screen and (max-width: 800px) {
+    .article {
+        width: 100%;
+    }
+    .six-three {
+        padding-top: 40px;
+        margin: 0% auto;
+    }
+    .dives-three {
+        width: 95%;
+        display: block;
+        flex-direction: column;
+        margin: 0% auto;
+    }
+    .img-three {
+        width: 95%;
+        padding-bottom: 10%;
+        margin: 0% auto;
+    }
+    .img-three .three {
+        width: 95%;
+    }
+    .img-three img {
+        width: 100%;
+        height: 55vh;
+    }
+    .line-button {
+        margin-left: 35%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .article {
+        width: 100%;
+        padding-top: 50px;
+    }
+    .six-three {
+        padding-top: 40px;
+        margin: 0% auto;
+    }
+    .dives-three {
+        width: 95%;
+        display: block;
+        flex-direction: column;
+        margin: 0% auto;
+    }
+    .img-three {
+        width: 98%;
+        padding-bottom: 10%;
+        padding-left: 3%;
+    }
+    .img-three .three {
+        width: 95%;
+    }
+    .img-three img {
+        width: 100%;
+        height: 55vh;
+        margin: 0% auto;
+    }
+    .line-button {
+        margin-left: 33%;
+    }
+    .line-none {
+        width: 85%;
+        margin-left: 5%;
+        margin-bottom: 9%;
+    }
+    .button_05 {
+        padding-top: 4%;
+    }
+}
+
+
+/*            end section seven         */
+
+
+/*              section eight         */
+
+@media screen and (max-width: 850px) {
+    .google {
+        background-color: white;
+        width: 83%;
+        height: auto;
+        color: black;
+        margin-left: 9%;
+        border-radius: 3%;
+    }
+    .goole {
+        color: rgb(7, 100, 0);
+        font-size: 23px;
+        padding-top: 3%;
+        padding-left: 8%;
+        line-height: 150%;
+    }
+    .all-father {
+        padding-top: 1%;
+    }
+    /*              div google        */
+    .three-imges {
+        width: 95%;
+        display: block;
+        flex-direction: column;
+        margin: 0% auto;
+    }
+    .img-div-icon {
+        width: 97%;
+        margin: 0% auto;
+    }
+    .img-div-icon .three-icon {
+        width: 94%;
+        height: 28vh;
+        padding-bottom: 5%;
+    }
+    .underline {
+        font-size: 21px;
+        text-align: center;
+        text-decoration: underline;
+    }
+    .imo {
+        line-height: 45px;
+        font-size: 21px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    /* div-goolge        */
+    .google {
+        background-color: white;
+        width: 83%;
+        height: auto;
+        color: black;
+        margin-left: 9%;
+        border-radius: 3%;
+    }
+    .goole {
+        color: rgb(7, 100, 0);
+        font-size: 23px;
+        padding-top: 3%;
+        padding-left: 8%;
+        line-height: 150%;
+    }
+    .all-father {
+        padding-top: 1%;
+    }
+    /*              div google        */
+    .three-imges {
+        width: 95%;
+        display: block;
+        flex-direction: column;
+        margin: 0% auto;
+    }
+    .img-div-icon {
+        width: 97%;
+        margin: 0% auto;
+    }
+    .img-div-icon .three-icon {
+        width: 94%;
+        height: 28vh;
+        padding-bottom: 5%;
+    }
+    .underline {
+        font-size: 21px;
+        text-align: center;
+        text-decoration: underline;
+    }
+    .imo {
+        line-height: 45px;
+        font-size: 21px;
+        text-align: center;
+    }
+}
+
+
+/*            end section eight         */
